@@ -52,6 +52,6 @@ The trained SVM model is saved as best_svm_model.pkl using joblib.
 To run the code, ensure you have the required dataset in the specified directory and execute the script. The script will output model performance metrics, display plots, and save the trained model.
 
 
-## Note: Correlation Matrix
+## Note: Post-ML Analysis SRS-Subscore Correlation Matrix
 
-The correlation matrix is also computed and plotted within the code, but it is not included in the research paper. This is because the correlation matrix is typically used for reducing multicollinearity in linear regression models and isn't as relevant for the SVM (non-linear model) used in the paper. It is provided here for additional examination and analysis.
+The SRS-subscore correlation matrix is also computed and plotted within the code, but it is not included in the research paper. This is because the correlation matrix is typically used for reducing multicollinearity in linear regression models and isn't as relevant for the SVM (non-linear model) compared to permution feature importance as analyzed in the paper. It is provided here for additional examination and analysis.

@@ -49,7 +49,7 @@ The trained SVM model is saved as best_svm_model.pkl using joblib.
 
 ### **Usage**
 
-To run the code, ensure you have the required dataset in the specified directory and execute the script. The script will output model performance metrics, display plots, and save the trained model.
+To run the code, ensure you have the required dataset in the specified directory and execute the script. The script will output model performance metrics, display plots, and save the trained model. Access the SRS dataset here: https://www.kaggle.com/datasets/alainashinde/srsno-avg2/data 
 
 
 ## Note: Post-ML Analysis SRS-Subscore Correlation Matrix
